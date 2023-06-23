@@ -1,4 +1,4 @@
-# Timex-computer-2068-gray-bug
+ # Timex-computer-2068-gray-bug
 An small circuit for correction of the sinclair gray bug on timex computer 2068.
 
 this as 3 inputs from the RGB signal another one from the bright sinal, also needs 5v from the board and ground.
@@ -20,3 +20,5 @@ here the gerber files for the pcb:
 [timex2068 bug.zip](https://github.com/zambujal/Timex-computer-2068-gray-bug/files/11846993/timex2068.bug.zip)
 
 P.S. the bright signal to the edge connector, is still untreated... if you want this treated for say an rgb out card or something, you must disconnect this signal to the edge connector and connecting the "treated" signal.
+
+António Vitor 23/06/2023
