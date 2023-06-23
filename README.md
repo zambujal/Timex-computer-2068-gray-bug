@@ -27,3 +27,9 @@ https://www.youtube.com/watch?v=giwbNEnFmkI
 gerber file to make the pcb and an BOM file for the IC's needed in the files section
 
 António Vitor 23/06/2023
+
+Warranty
+No Warranty of the Project. The Issuer makes no express or implied warranty of any kind whatsoever with respect to the Project.
+
+License
+GNU General Public License v3.0 T&C applies to this repository content.
