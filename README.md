@@ -24,4 +24,6 @@ P.S. the bright signal to the edge connector, is still untreated... if you want 
 An video (in portuguese)
 https://www.youtube.com/watch?v=giwbNEnFmkI
 
+gerber file to make the pcb and an BOM file for the IC's needed in the files section
+
 António Vitor 23/06/2023
