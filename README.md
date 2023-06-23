@@ -21,4 +21,7 @@ here the gerber files for the pcb:
 
 P.S. the bright signal to the edge connector, is still untreated... if you want this treated for say an rgb out card or something, you must disconnect this signal to the edge connector and connecting the "treated" signal.
 
+An video (in portuguese)
+https://www.youtube.com/watch?v=giwbNEnFmkI
+
 António Vitor 23/06/2023
