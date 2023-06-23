@@ -18,4 +18,5 @@ here the PCB:
 
 here the gerber files for the pcb:
 [timex2068 bug.zip](https://github.com/zambujal/Timex-computer-2068-gray-bug/files/11846993/timex2068.bug.zip)
+
 P.S. the bright signal to the edge connector, is still untreated... if you want this treated for say an rgb out card or something, you must disconnect this signal to the edge connector and connecting the "treated" signal.
