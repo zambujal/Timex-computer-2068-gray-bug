@@ -11,7 +11,8 @@ Then you should disconnect this resistor here leaving the other side connected. 
 
 
 the 5V and the ground you could solder here C and D.
-![Screenshot_20230623-104848](https://github.com/zambujal/Timex-computer-2068-gray-bug/assets/47646777/ea09cd60-ef28-4aca-a557-63ef808e2b5e)
+![Screenshot_20230623-104903](https://github.com/zambujal/Timex-computer-2068-gray-bug/assets/47646777/94f7b553-9d85-47c7-877a-399c200b2500)
+
 
 
 here the PCB:
