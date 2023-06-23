@@ -19,4 +19,7 @@ the 5V and the ground you could solder here C and D.
 here the PCB:
 ![received_910357564050578](https://github.com/zambujal/Timex-computer-2068-gray-bug/assets/47646777/577200b4-e345-4c2c-9b83-037d1eda5594)
 
+here the gerber files for the pcb:
+[timex2068 bug.zip](https://github.com/zambujal/Timex-computer-2068-gray-bug/files/11846993/timex2068.bug.zip)
+
 
