@@ -9,6 +9,9 @@ where to solder for the RGB (no need to connect the right color to the right pin
 Then you should disconnect this resistor here leaving the other side connected. the signal for the bright pin on the pcb will be from the A arrow (you must dissolder the resistor here, and it's the place to solder for the bright signal) then you solder the out signal to the semi removed resistor (B arrow). What you are doing here is to tap the bright signal from the SCLD, not letting this go to that resistor, before being treated by the PCB...![Screenshot_20230623-104848](https://github.com/zambujal/Timex-computer-2068-gray-bug/assets/47646777/ea09cd60-ef28-4aca-a557-63ef808e2b5e) 
 
 the 5V and the ground you could solder here C and D.
+![Screenshot_20230623-104903](https://github.com/zambujal/Timex-computer-2068-gray-bug/assets/47646777/b86ef3ad-3748-40b6-b382-10ef6b8e9763)
+
+
 here the PCB:
 ![received_910357564050578](https://github.com/zambujal/Timex-computer-2068-gray-bug/assets/47646777/577200b4-e345-4c2c-9b83-037d1eda5594)
 
